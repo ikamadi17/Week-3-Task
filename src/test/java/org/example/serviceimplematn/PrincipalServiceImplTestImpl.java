@@ -1,2 +1,4 @@
-package org.example.serviceimplematn;public class PrincipalServiceImplTestImpl {
-}
+//package org.example.serviceImplematn;
+//
+//public class PrincipalServiceImplTestImpl extends org.example.serviceImplematn.PrincipalServiceImplTest {
+//}

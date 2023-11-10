@@ -15,9 +15,9 @@ public class StudentDetailsImpl {
     public static List<Person> seniorStudentList = new ArrayList<>();
 
     public static List<Person> student = new ArrayList<>();
-    public static List<Person> readExcelDetails(String pathname, String sheetName){
+    public static List<Person> readExcelDetails(String filepath, String sheetName){
 
-        try(BufferedReader bufferedReader = new BufferedReader(new FileReader(pathname))){
+        try(BufferedReader bufferedReader = new BufferedReader(new FileReader(filepath))){
             String read;
             boolean firstline = true;
             while((read= bufferedReader.readLine())!= null){

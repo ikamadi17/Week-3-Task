@@ -1,2 +1,4 @@
-package org.example.services;public interface SchoolService {
+package org.example.services;
+
+public interface SchoolService {
 }

@@ -1,2 +1,4 @@
-package org.example.enums;public class NonAcademicStaffPayment {
+package org.example.enums;
+
+public enum NonAcademicStaffPayment {
 }

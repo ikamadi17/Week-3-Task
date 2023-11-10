@@ -1,2 +1,5 @@
-package org.example.enums;public enum StaffPayment {
+package org.example.enums;
+
+public enum StaffPayment
+{
 }

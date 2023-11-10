@@ -1,2 +1,4 @@
-package org.example.enums;public enum Conduct {
+package org.example.enums;
+
+public enum Conduct {
 }
